@@ -1,0 +1,77 @@
+/*
+ *
+ * Font Family: 
+ *  font-family: "freight-big-pro", serif;
+ *  font-weight: 400;
+ *  font-style: normal;
+ *
+ * Font Family Bold:
+ *  font-family: "freight-big-pro", serif;
+ *  font-weight: 700;
+ *  font-style: normal;
+ * 
+ * Colors: 
+ *  color-1: #0C0A0D;
+ *  color-2: #231F26;
+ *  color-3: #4A4F59;
+ *  color-4: #A5A69C;
+ *  color-5: #D9D6D2;
+ */
+
+*{
+    font-family: "freight-big-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    background-image: url(images/fondo.jpg);
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0);
+    font-size: large;
+    background-color: transparent;
+}
+
+.nav-titulo{
+    font-size: 30px;
+}
+
+.nav-opciones{
+    margin: 0 15px;
+   font-size: 20px;
+}
+
+.color-1 {
+    color: #0C0A0D;
+}
+
+.color-2 {
+    color: #231F26;
+}
+
+.color-3 {
+    color: #4A4F59;
+}
+
+.color-4 {
+    color: #A5A69C;
+}
+
+.color-5 {
+    color: #D9D6D2;
+}
+
+.hero-text {
+    font-size: 100px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
