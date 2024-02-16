@@ -22,10 +22,11 @@
     font-family: "freight-big-pro", serif;
     font-weight: 400;
     font-style: normal;
+    background-color: #D9D6D2;
 }
 
 body{
-    background-image: url(images/fondo.jpg);
+    background-image: url(images/fondo.png);
     background-size: cover;
 }
 
